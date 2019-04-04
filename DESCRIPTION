@@ -1,0 +1,11 @@
+Package: iSpeculator
+Type: Package
+Title: My quantitative finance functions
+Version: 0.1
+Depends: quantmod
+Date: 2019-04-04
+Author: Alessandro Coppe
+Maintainer: AlessandroCoppe
+Description: A set of quantitative finance functions
+License: WTFPL
+RoxygenNote: 6.1.1
